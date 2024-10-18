@@ -33,9 +33,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```
 
 6. 
-  ```bash
-  Wait for the Splash screen to appear
-  ```
+   ```bash
+   Wait for the Splash screen to appear
+   ```
 
 7. 
    ```bash
