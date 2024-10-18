@@ -28,16 +28,19 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    
 
 5. 
+
     ```bash
    Wait for the App to finish compiling and,
    ```
 
 6. 
+
    ```bash
    Wait for the Splash screen to appear
    ```
 
 7. 
+
    ```bash
    Log in to the App with the right Credentials, if you need help to login with the right credentials please check api documentation sent via postman.
    ```
