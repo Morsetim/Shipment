@@ -15,9 +15,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
-   ```bash
-3. Download the expo go application on you mobile device from IOS App Store or Google Play Store
-   ```
+3.
+
+```bash
+  Download the expo go application on you mobile device from IOS App Store or Google Play Store
+```
 
 4. Scan the barcode generated on you PC from starting the App with your mobile device camera
 
